@@ -21,5 +21,7 @@
 
 
 # Demo
+
+<h2 id="Fully-functional-game-with-rich-features">Fully functional game with rich features</h2>
 ### Fully functional game with rich features
-### GitHub Stats Card
+# GitHub Stats Card
