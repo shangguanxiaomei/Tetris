@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://github.com/shangguanxiaomei/Imageshare/raw/master/20200804%20Project/Tetris0.png" align="center" alt="GitHub Readme Stats" />
  <h1 align="center">Tetris</h1>
- <p align="center">A Classic Tetris game Using Java 8</p>
+ <p align="center">A classic Tetris game Using Java 8</p>
 </p>
 
 # Features
