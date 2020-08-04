@@ -5,10 +5,10 @@
 </p>
 
 # Features
-- ### [Fully functional game with two game modes](#Fully-functional-game-with-two-game-modes)
-- ### [Friendly menu with rich game features](#Friendly-menu-with-rich-game-features)
-- ### [Variety configurations](#Variety-configurations)
-- ### [All kinds of game statistics](#All-kinds-of-game-statistics)
+- [Fully functional game with two game modes](#Fully-functional-game-with-two-game-modes)
+- [Friendly menu with rich game features](#Friendly-menu-with-rich-game-features)
+- [Variety configurations](#Variety-configurations)
+- [All kinds of game statistics](#All-kinds-of-game-statistics)
 
 
 # Demo
