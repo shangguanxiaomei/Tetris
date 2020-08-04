@@ -11,7 +11,7 @@
 - [All kinds of game statistics](#All-kinds-of-game-statistics)
 
 # Fully functional game with two game modes
-Includes all the functionality of the game, such as new game, pausing, resuming...
+Includes all the functionality of the game, such as new game, pausing, resuming...<br>
 Has two different game modes: solo and VS AI, AI levels can be adjusted.
 <br><br>
 <img width="500px" src="https://github.com/shangguanxiaomei/Imageshare/raw/master/20200804%20Project/Tetris1.png" align="center" alt="GitHub Readme Stats" />
@@ -19,16 +19,15 @@ Has two different game modes: solo and VS AI, AI levels can be adjusted.
 <img width="500px" src="https://github.com/shangguanxiaomei/Imageshare/raw/master/20200804%20Project/Tetris2.png" align="center" alt="GitHub Readme Stats" />
 
 # Friendly menu with rich game features
-Conventional game menu with hotkeys associated, for all kinds of setting.
-Selection of BGM and sound effect.
+Conventional game menu with hotkeys associated, for all kinds of setting.<br>
+Selection of BGMs and sound effects.
 <br><br>
 <img width="500px" src="https://github.com/shangguanxiaomei/Imageshare/raw/master/20200804%20Project/Tetris5.png" align="center" alt="GitHub Readme Stats" />
 <br><br>
 <img width="500px" src="https://github.com/shangguanxiaomei/Imageshare/raw/master/20200804%20Project/Tetris6.png" align="center" alt="GitHub Readme Stats" />
 
-
 # Variety configurations
-The control keys and game rules as well as game difficulties such as speed can be configured.
+The control keys and game rules as well as game difficulties such as speed can be configured.<br>
 The configuration file is store locally so that you don't lose it.
 <br><br>
 <img width="300px" src="https://github.com/shangguanxiaomei/Imageshare/raw/master/20200804%20Project/Tetris3.png" align="center" alt="GitHub Readme Stats" />
@@ -36,8 +35,8 @@ The configuration file is store locally so that you don't lose it.
 <img width="300px" src="https://github.com/shangguanxiaomei/Imageshare/raw/master/20200804%20Project/Tetris4.png" align="center" alt="GitHub Readme Stats" />
 
 # All kinds of game statistics
-Real time game statistics and life-time game statistics are provided, helping ones to improve themselves.
-APM: Actions per minute
+Real time game statistics and life-time game statistics are provided, helping ones to improve themselves.<br>
+APM: Actions per minute<br>
 BPm: Bricks per minute
 <br><br>
 <img width="200px" src="https://github.com/shangguanxiaomei/Imageshare/raw/master/20200804%20Project/Tetris7.png" align="center" alt="GitHub Readme Stats" />
