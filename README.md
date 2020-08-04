@@ -18,7 +18,7 @@ Includes all the functionality of the game, such as new game, pausing, resuming.
 Has two different game modes: solo and VS AI, AI levels can be adjusted.
 <br>
 <img width="500px" src="https://github.com/shangguanxiaomei/Imageshare/raw/master/20200804%20Project/Tetris1.png" align="center" alt="GitHub Readme Stats" />
-<br>
+&nbsp
 <img width="500px" src="https://github.com/shangguanxiaomei/Imageshare/raw/master/20200804%20Project/Tetris2.png" align="center" alt="GitHub Readme Stats" />
 
 # Friendly menu with rich game features
