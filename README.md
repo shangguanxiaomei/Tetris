@@ -37,7 +37,7 @@ The configuration file is store locally so that you don't lose it.
 # All kinds of game statistics
 Real time game statistics and life-time game statistics are provided, helping ones to improve themselves.<br>
 APM: Actions per minute<br>
-BPm: Bricks per minute
+BPM: Bricks per minute
 <br><br>
 <img width="200px" src="https://github.com/shangguanxiaomei/Imageshare/raw/master/20200804%20Project/Tetris7.png" align="center" alt="GitHub Readme Stats" />
 <br><br>
