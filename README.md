@@ -6,7 +6,7 @@
 
 # Features
 - [Fully functional game with rich features](###Fully-functional-game-with-rich-features)
-- [GitHub Stats Card](#github-stats-card)
+- [GitHub Stats Card](###github-stats-card)
 
 #### Common Options:
 
@@ -22,4 +22,4 @@
 
 # Demo
 ### Fully functional game with rich features
-# GitHub Stats Card
+### GitHub Stats Card
