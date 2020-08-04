@@ -1,0 +1,41 @@
+lines to send
+-2
+
+points per level
+10000
+
+levelup bonus
+0
+-----------------------
+player start rows
+0
+
+player start level
+0
+
+computer start rows
+0
+
+computer start level
+0
+
+computer AI level
+7
+-----------------------
+move left
+65
+
+move right
+68
+
+move down
+83
+
+drop brick
+32
+
+rotate brick
+87
+
+pause
+80
