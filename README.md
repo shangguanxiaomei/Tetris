@@ -5,7 +5,7 @@
 </p>
 
 # Features
-- [Fully functional game with rich features](###Fully-functional-game-with-rich-features)
+- [Fully functional game with rich features](#Fully-functional-game-with-rich-features)
 - [GitHub Stats Card](#github-stats-card)
 
 #### Common Options:
@@ -41,5 +41,5 @@
 # Demo
 
 <h2 id="Fully-functional-game-with-rich-features">Fully functional game with rich features</h2>
-### Fully functional game with rich features
+# Fully functional game with rich features
 # GitHub Stats Card
